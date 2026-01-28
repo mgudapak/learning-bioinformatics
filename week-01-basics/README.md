@@ -87,3 +87,7 @@ Rather than using Homebrew to install python directly, I chose to install `pyenv
     Python 3.11.12
 
 ```
+
+## Python Intro
+
+I am following the freely available [Google's internal Python course](https://developers.google.com/edu/python) to get familiar with Python.
